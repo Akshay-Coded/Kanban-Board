@@ -12,11 +12,8 @@ This project is a simple Kanban board implementation using HTML, CSS, and JavaSc
 
 ## Demo
 
-You can view a live demo of the project [here](link_to_live_demo).
+You can view a live demo of the project [here]( https://akshay-coded.github.io/Kanban-Board/).
 
-## Screenshots
-
-![Kanban Board](screenshots/kanban_board.png)
 
 ## Installation
 
